@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Construction of the Welland Ship Canal
 
-You can use the [editor on GitHub](https://github.com/chantalcameron/Welland-Ship-Canal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Construction on the fourth Welland canal began in 1913 but progress was delayed due to a shortage of workers and material during the first World War.  Work was temporarily halted but resumed in 1919 under the supervision of Alexander J. Grant, Chief Engineer.  The new canal needed to be large enough to accommodate the Great Lakes steamers of the time.  The route largely remained the same from Port Colborne to Thorold.  From here, the canal followed Ten Mile Creek Valley and joined Lake Ontario at Port Weller,  just east of Port Dalhousie.  It was necessary to construct a harbour at Port Weller as a natural one did not exist.  The canal has seven lift locks and one guard lock.  It was opened in 1932 and is officially known as the Welland Ship Canal.   This canal remains in operation.   The images of construction displayed here are part of the Welland Canal Lantern Slide collection.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chantalcameron/Welland-Ship-Canal/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
